@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+lib/
+.pytest_cache
+function.zip
+
